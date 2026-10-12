@@ -32,8 +32,8 @@ OpenClaw, Codex, Cursor, Windsurf, or anything with a skills directory).
 git clone https://github.com/rushindrasinha/sylar.git
 # Claude Code (global)
 cp -r sylar/skill ~/.claude/skills/sylar
-# OpenClaw workspace
-cp -r sylar/skill ~/clawd/skills/sylar
+# OpenClaw or any workspace with a skills directory
+cp -r sylar/skill <your-workspace>/skills/sylar
 ```
 
 Optional: set where the ledger lives.
