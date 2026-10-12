@@ -21,9 +21,9 @@
     <line x1="0" y1="240" x2="1200" y2="240"/>
   </g>
   <g transform="translate(900,160)">
-    <circle r="92" fill="none" stroke="url(#glow)" stroke-width="3"/>
-    <circle r="62" fill="none" stroke="url(#glow)" stroke-width="2" stroke-dasharray="6 8"/>
-    <circle r="26" fill="url(#glow)"/>
+    <circle r="92" fill="none" stroke="#f5c542" stroke-width="3"/>
+    <circle r="62" fill="none" stroke="#ff7a45" stroke-width="2" stroke-dasharray="6 8"/>
+    <circle r="26" fill="#f5c542"/>
     <path d="M-150 0 H-96" stroke="#f5c542" stroke-width="3" stroke-linecap="round"/>
     <path d="M-110 -10 L-96 0 L-110 10" fill="none" stroke="#f5c542" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
